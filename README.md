@@ -1,0 +1,2 @@
+SOLOCOIN 2015
+SpecsSOLOCOIN -SCRYPT-POWAbbreviation -SOLO-Max Money 312500Total coin POW 300000Premine 4 % 0-10 Genesis BlockBOUNTY,EXCHANGE,DEVELOPMENT,ETCdifficulty Launch : 0.001312030-150000 1 Coins150000-300000 0.5 Coins300000-450000 0.25 Coins450000-600000 0.125 CoinsBlock Time 120 Secondsmaturity 9 blocks

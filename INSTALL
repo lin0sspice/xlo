@@ -1,0 +1,9 @@
+Building SOLOCOIN
+
+See doc/readme-qt.rst for instructions on building SOLOCOIN-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SOLOCOIN.
+
+See doc/build-*.txt for instructions on building solocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SOLOCOIN.
